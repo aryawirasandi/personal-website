@@ -23,5 +23,11 @@ export let navs: IComponentNavs[] = [
 		name: 'Github',
 		href: 'https://github.com/aryawirasandi',
 		alt: 'Arya Github Repo'
+	},
+	{
+		id: 'resume',
+		name: 'Resume',
+		href: 'https://drive.google.com/file/d/1YegyiMzjOxVbg29xSZqwHAjklzw5h0MA/view?usp=sharing',
+		alt: 'Resume'
 	}
 ];
