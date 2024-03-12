@@ -14,7 +14,7 @@
         👋
     </span>, Welcome to</h1>
     <p class="text-center text-2xl mt-2">Arya Wirasandi personal website!</p>
-    <div class="flex justify-center gap-[20px] mt-[20px]">
+    <div class="flex justify-center gap-[20px] mt-[20px] w-1/2 mx-auto flex-col text-center md:flex-row md:w-full">
         {#each badges as badge}
             {#if badge.id !== "home"}
 				<Badge {badge} />
