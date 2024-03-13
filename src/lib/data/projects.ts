@@ -38,7 +38,7 @@ export const projects: Projects[] = [
 		id: 'dikampus',
 		slug: 'dikampus-project',
 		src: DikampusProject,
-		title: 'Bank Syariah Indonesia',
+		title: 'Dikampus',
 		url: 'https://dikampus-cbb63.firebaseapp.com/'
 	},
 	{
